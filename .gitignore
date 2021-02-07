@@ -1,0 +1,3 @@
+.terraform*
+learn-terraform-aws-instance/
+terraform.tfstate*
